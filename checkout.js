@@ -1,6 +1,5 @@
 function checkout() {
   return true; // ✅ FIXED
-  console.log("Thanh toán thành công"); // thêm dòng này
 }
 
 if (!checkout()) {
